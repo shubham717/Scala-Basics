@@ -1,0 +1,24 @@
+***********************************************Welcome**********************************************************
+
+
+             To run scala on your machine, first you have to install it.
+     Below I have given the steps which you have to follow:-
+
+1.  First, make sure you have the Java 8 JDK (or Java 11 JDK) installed.
+   ( to check that, write "java -version" on command prompt)
+
+2. Install Scala sbt, I've given the link below:-
+  https://www.scala-lang.org/download/
+
+3. After installation set the environment variable to access it from anywhere
+
+4. Write "scala -version" in command prompt to check whether it is installed correctly.
+
+5.Write "scala" on cmd
+
+6.Now, you're ready to code
+
+// Initially try to code in command prompt itself, that'll help you with syntax.
+
+
+*****************************************************************************************************************
